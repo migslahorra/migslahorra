@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in learning programming languages and grasping them; PHP, JavaScript, Nodejs, Reactjs, Django, twig, and many more but the mentioned are primary since I am 
 learning new frameworks that they are related.
-- 🌱 I’m currently learning PHP and using framework such as Laravel, Symfony, CakePHP, and Angular, but also looking forward to try others as well.
+- 🌱 I’m currently learning PHP and using framework such as Laravel, Symfony, CakePHP, CodeIgniter, and Angular, but also looking forward to try others as well.
 - 💞️ I’m looking to collaborate soon with other developers doesn't matter if a beginner, junior, or senior dev.
 - 📫 How to reach me: you can reach my via facebook messenger, whatsapp, and also discord.
 Whatsapp: (PH number) - 09283329944
