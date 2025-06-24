@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently in the 3rd year college level in Divine Word <br>College of Legazpi in the Philippines.<br><br>I'm currently learning PHP programming language and their<br>frameworks Laravel, CodeIgniter, Symfony, and CakePHP <br>for easier development of web applications.<br>
+I am currently in the 3rd year college level in Divine Word <br>College of Legazpi in the Philippines.<br><br>I'm currently learning PHP programming language and their<br>frameworks Laravel, CodeIgniter, Symfony, CakePHP, and Angular <br>for easier development of web applications.<br>
 
 
 ## 🌐 Socials:
