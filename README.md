@@ -3,7 +3,7 @@ Hello there developer, my name is Juan Miguel Tagle Lahorra, I'm from Legazpi Ci
 I am now currently in the 3rd year level in college attending in the school; Divine Word College of Legazpi in Legazpi City.
 
 I am currently learning on programming languages, styling, and frameworks such as: css, scss, tailwind, php, javascript, angular, and others as well it is alse presented below.
-
+Every raw php made project I share here on github, I also re-create them with frameworks!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jmtl.migsdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-miguel-tagle-lahorra-289573344/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lahorrajm@gmail.com) 
