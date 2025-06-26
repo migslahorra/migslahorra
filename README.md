@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently in the 3rd year college level in Divine Word<br>College of Legazpi in the Philippines.<br><br>I'm currently learning PHP programming language and their<br>frameworks Laravel, CodeIgniter, Symfony, CakePHP, and Angular<br>for easier development of web applications.
+Hello there developer, my name is Juan Miguel Tagle Lahorra, I'm from Legazpi City, Albay (Philippines) and I am an aspiring Full Stack Web Developer and chess player.
+I am now currently in the 3rd year level in college attending in the school; Divine Word College of Legazpi in Legazpi City.
+
+I am currently learning on programming languages, styling, and frameworks such as: css, scss, tailwind, php, javascript, angular, and others as well it is alse presented below.
 
 
 ## 🌐 Socials:
